@@ -1,7 +1,1 @@
-[
-  {"title":"大板","url":"/Images/type1/1.jpeg","desc":"描述信息"},
-  {"title":"大板","url":"/Images/type1/2.jpeg","desc":"描述信息"},
-  {"title":"大板","url":"/Images/type1/3.jpeg","desc":"描述信息"},
-  {"title":"大板","url":"/Images/type1/4.jpeg","desc":"描述信息"},
-  {"title":"大板","url":"/Images/type1/5.jpeg","desc":"描述信息"}
-]
+[{"title":"1","url":"/Images/Type1/1.jpeg","desc":"描述"},{"title":"2","url":"/Images/Type1/2.jpeg","desc":"描述"},{"title":"3","url":"/Images/Type1/3.jpeg","desc":"描述"},{"title":"4","url":"/Images/Type1/4.jpeg","desc":"描述"},{"title":"5","url":"/Images/Type1/5.jpeg","desc":"描述"}]
